@@ -1,1 +1,3 @@
-# ссылка на сраницу: https://ivnnkt.github.io/Skillfactory_A6/
+ https://ivnnkt.github.io/simple_game/.
+
+simple game with Javascript
